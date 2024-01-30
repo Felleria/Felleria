@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Felleria Nang'oma</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<h3 align="center">A passionate Software Engineer from Kenya🇰🇪</h3>
 <h4 align="center">I'm a 20-year-old Software engineer diving into the world of front-end development. Computers have fascinated me since childhood, and now, i am turning thatfascination into innovation.</h4>
 <p align="center">Completed The African Leadership Accelerator (ALX) Software Engineering Bootcamp</p>
 
