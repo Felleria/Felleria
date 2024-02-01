@@ -1,7 +1,7 @@
 ![Banner Image] (./banner.jpg)
 <h1 align="center">Hi 👋, I'm Felleria Nang'oma</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
-<h4 align="center">I'm a 20-year-old Software engineer diving into the world of front-end development. Computers have fascinated me since childhood, and now, i am turning thatfascination into innovation.</h4>
+<h4 align="center">Passionate 20-year-old with a lifelong love for computers, driven to explore the realm of software engineering. Self-taught enthusiast seeking hands-on experience and challenges to enhance coding skills and contribute to innovative projects.</h4>
 <p align="center">Completed The African Leadership Accelerator (ALX) Software Engineering Bootcamp</p>
 
 - 🌱 I’m currently learning **JS, React**
