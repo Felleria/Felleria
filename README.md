@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JS, React**
 
-- ⚡ Fun fact **I watch a lot of movies /video games**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
