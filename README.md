@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JS, React**
 
-- 📫 How to reach me **nangomafelleria@gmail.com**
-
 - ⚡ Fun fact **I watch a lot of movies /video games**
 
 <h3 align="left">Connect with me:</h3>
