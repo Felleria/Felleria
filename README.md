@@ -8,7 +8,7 @@
 
 <a href='https://drive.google.com/file/d/18Vy44A4VGw9DKynS0zfIK95F2__tTDE5/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Certificate-blue?style=for-the-badge"></a>
 
-🌱 I’m currently learning **JS, React**
+<h4 align="left">🌱 I’m currently learning **JS, React**</h4>
 
 
 
