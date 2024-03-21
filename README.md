@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Felleria</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<h3 align="center">A passionate Full Stack Developer from Kenya</h3>
 <h4 align="left">Passionate 20-year-old with a lifelong love for computers, driven to explore the realm of software engineering. Self-taught enthusiast seeking hands-on experience and challenges to enhance coding skills and contribute to innovative projects.</h4>
 <h4 align="center">Completed The African Leadership Accelerator (ALX) Software Engineering Bootcamp.</h4>
 <h4 align="center">Currently studying at Moringa School .</h4>
