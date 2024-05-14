@@ -8,8 +8,6 @@
 
 <a href='https://drive.google.com/file/d/18Vy44A4VGw9DKynS0zfIK95F2__tTDE5/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Certificate-blue?style=for-the-badge"></a>
 
-<h4 align="left">🌱 I’m currently learning **JS, React**</h4>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/te_lly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="te_lly" height="30" width="40" /></a>
