@@ -8,13 +8,6 @@
 
 <a href='https://drive.google.com/file/d/18Vy44A4VGw9DKynS0zfIK95F2__tTDE5/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Certificate-blue?style=for-the-badge"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/te_lly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="te_lly" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felleria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felleria" height="30" width="40" /></a>
-<a href="https://instagram.com/_t.e.l.l.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_t.e.l.l.y" height="30" width="40" /></a>
-</p>
-
 <h3 align="center"><br>Tools & Technologies</h3>
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
