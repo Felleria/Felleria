@@ -4,8 +4,6 @@
 <h4 align="left">Passionate 20-year-old with a lifelong love for computers, driven to explore the realm of software engineering. Self-taught enthusiast seeking hands-on experience and challenges to enhance coding skills and contribute to innovative projects.</h4>
 <h4 align="center">Completed The African Leadership Accelerator (ALX) Software Engineering Bootcamp.</h4>
 
-- 👨🏽‍💻 checkout my [portfolio](https://felleria.com/) website!
-
 <h3 align="center"><a href="mailto:nangomafelleria@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a> 
 
 <a href='https://drive.google.com/file/d/18Vy44A4VGw9DKynS0zfIK95F2__tTDE5/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Certificate-blue?style=for-the-badge"></a>
